@@ -1,0 +1,5 @@
+Readme for Austin Wu's version of 2048 in Java.
+This is a version of the popular number tile game 2048 written in the Java programming language.
+This project was started in early June and finished on June 14th.
+This project borrows code from another of my projects, a Tetris game written in Java. It uses
+the same block based GUI to store information in the game. 
